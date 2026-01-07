@@ -3,17 +3,16 @@
 A simple signal injector for faults diagnosing in audio equipment.  
 Schematics diagram + PCB diagram (KiCAD 9) and case 3D model (Blender) are also provided.  
 
-Based on the Espacio de Cesar's video:
-[Audio Signal Injector](https://www.youtube.com/watch?v=kp08ScxISPk) [spanish].
+Based on the Espacio de Cesar's video: [Audio Signal Injector](https://www.youtube.com/watch?v=kp08ScxISPk). [spanish]
 
 &nbsp;
 
 ### Notes:
 
-- Turn the potentiometer to adjust the volume.
-- Turn de trimmer to adjust the injected audio frecuency.
-- Use the probes on speakers, buzzers and so on to diagnose audio problems.
 - Power input: 5-12 VDC
+- Turn the potentiometer to adjust the volume.
+- Turn de trimmer to adjust the generated audio frecuency.
+- Use the probes on speakers, buzzers and so on to diagnose audio problems.
 
 &nbsp;
 
