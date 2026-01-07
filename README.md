@@ -52,7 +52,7 @@ Based on the Espacio de Cesar's video: [Audio Signal Injector](https://www.youtu
 
 | Case 3D Model                                        | Project Final                                        |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/99-comming-soon.jpg)                   | ![](Resources/99-comming-soon.jpg)                   |
+| ![](Resources/07-case-3d-model.jpg)                  | ![](Resources/99-comming-soon.jpg)                   |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
@@ -60,7 +60,8 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 
 ### Version History
 
-v1.0 (2026.01.06) - Initial release.  
+v1.0 (2026.01.06) - Adding schematics and PCB.  
+v1.1 (2026.01.07) - Adding case 3D model.  
 
 &nbsp;
 
