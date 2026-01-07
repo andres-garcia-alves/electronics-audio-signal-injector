@@ -40,7 +40,7 @@ Based on the Espacio de Cesar's video: [Audio Signal Injector](https://www.youtu
 
 | Breadboard                                           | Assembly                                             |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/99-comming-soon.jpg)                   | ![](Resources/99-comming-soon.jpg)                   |
+| ![](Resources/01-breadboard-01.jpg)                  | ![](Resources/99-comming-soon.jpg)                   |
 
 | Schematics Diagram                                   | PCB Diagram                                          |
 |------------------------------------------------------|------------------------------------------------------|

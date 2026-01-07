@@ -82,7 +82,7 @@
 	(net 2 "SIGNAL")
 	(net 3 "C_VOLT")
 	(net 4 "OUTPUT")
-	(net 5 "Net-(C4-Pad2)")
+	(net 5 "Net-(C1-Pad2)")
 	(net 6 "VCC")
 	(net 7 "PROBE")
 	(net 8 "unconnected-(U1-DIS-Pad7)")
@@ -1158,7 +1158,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 6mm width 2.5mm Capacitor")
 		(property "Reference" "C2"
-			(at 2.54 2.3 270)
+			(at 2.667 0.0175 270)
 			(layer "F.SilkS")
 			(uuid "bfb6413f-4d65-464a-a030-8e6a01e72902")
 			(effects
@@ -1168,8 +1168,8 @@
 				)
 			)
 		)
-		(property "Value" "563"
-			(at 2.5 0 90)
+		(property "Value" "100nF"
+			(at 2.667 2.0495 90)
 			(layer "F.Fab")
 			(uuid "da472e90-e83f-48a4-8661-c705974c302f")
 			(effects
@@ -1368,7 +1368,7 @@
 		(at 158.79 92.075)
 		(descr "C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=11mm, Non-Polar Electrolytic Capacitor")
 		(tags "C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 11mm Non-Polar Electrolytic Capacitor")
-		(property "Reference" "C4"
+		(property "Reference" "C1"
 			(at 1.27 -2 0)
 			(layer "F.SilkS")
 			(uuid "b6c61aa4-065f-4032-8352-cc06b1b61318")
@@ -1468,7 +1468,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "Net-(C4-Pad2)")
+			(net 5 "Net-(C1-Pad2)")
 			(pintype "passive")
 			(uuid "9158237d-655b-4840-aa30-5295a42f0116")
 		)
@@ -1502,7 +1502,7 @@
 				)
 			)
 		)
-		(property "Value" "20K"
+		(property "Value" "100K"
 			(at 2.5 -0.7 0)
 			(layer "F.Fab")
 			(uuid "61e8ae35-6baf-499b-bd5e-bc0c87957d6c")
@@ -1890,7 +1890,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 6mm width 2.5mm Capacitor")
 		(property "Reference" "C3"
-			(at 5.04 2.54 0)
+			(at 2.627 -0.127 0)
 			(layer "F.SilkS")
 			(uuid "dd08af60-420a-4153-bbab-da6d0aef8be6")
 			(effects
@@ -1900,8 +1900,8 @@
 				)
 			)
 		)
-		(property "Value" "104"
-			(at 2.5 0 0)
+		(property "Value" "100nF"
+			(at 3.135 2.286 0)
 			(layer "F.Fab")
 			(uuid "837b38c9-b9e7-4a90-94df-6967720d2584")
 			(effects
@@ -2533,7 +2533,7 @@
 				)
 			)
 		)
-		(property "Value" "5K"
+		(property "Value" "10K"
 			(at -2.54 -2.54 0)
 			(layer "F.Fab")
 			(uuid "a95e12f1-49d5-4f68-b70e-ad48142c714c")
@@ -2640,7 +2640,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.1388888889)
-			(net 5 "Net-(C4-Pad2)")
+			(net 5 "Net-(C1-Pad2)")
 			(pinfunction "1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)

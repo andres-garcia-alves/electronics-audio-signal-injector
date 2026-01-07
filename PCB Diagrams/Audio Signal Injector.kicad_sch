@@ -2736,8 +2736,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20K"
-			(at 193.802 99.06 90)
+		(property "Value" "100K"
+			(at 194.31 99.314 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3028,7 +3028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "837cfb06-a274-41e0-9b24-3812839af877")
-		(property "Reference" "C4"
+		(property "Reference" "C1"
 			(at 182.626 81.28 90)
 			(effects
 				(font
@@ -3082,7 +3082,7 @@
 		(instances
 			(project ""
 				(path "/604830de-c4cb-461f-a5a7-02fc1d407f1c"
-					(reference "C4")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -3368,7 +3368,7 @@
 				)
 			)
 		)
-		(property "Value" "104"
+		(property "Value" "100nF"
 			(at 180.34 75.438 90)
 			(effects
 				(font
@@ -3531,8 +3531,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "563"
-			(at 204.978 99.568 90)
+		(property "Value" "100nF"
+			(at 206.248 99.822 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3696,7 +3696,7 @@
 				)
 			)
 		)
-		(property "Value" "5K"
+		(property "Value" "10K"
 			(at 191.77 85.09 90)
 			(effects
 				(font
