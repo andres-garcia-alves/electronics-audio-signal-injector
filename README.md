@@ -19,12 +19,12 @@ Based on the Espacio de Cesar's video: [Audio Signal Injector](https://www.youtu
 ### List of Materials
 
 - 1 x IC NE555
-- 1 x Capacitor 56nF
-- 1 x Capacitor 100nF
 - 1 x Electrolitic capacitor 1uF
+- 1 x Capacitor 100nF
+- 1 x Capacitor 56nF
 - 1 x Resistor 3.3k ohms
-- 1 x Trimmer 20k ohms
-- 1 x Potentiometer 5k ohms
+- 1 x Trimmer 50k ohms
+- 1 x Potentiometer 10k ohms
 - 1 x LED
 - 1 x Resistor 470 ohms
 - 1 x Rocker Button (power on/off)
@@ -40,7 +40,11 @@ Based on the Espacio de Cesar's video: [Audio Signal Injector](https://www.youtu
 
 | Breadboard                                           | Assembly                                             |
 |------------------------------------------------------|------------------------------------------------------|
-| ![](Resources/01-breadboard-01.jpg)                  | ![](Resources/99-comming-soon.jpg)                   |
+| ![](Resources/01-breadboard-01.jpg)                  | ![](Resources/02-assembly-04.jpg)                    |
+
+| Assembly                                             | Assembly                                             |
+|------------------------------------------------------|------------------------------------------------------|
+| ![](Resources/02-assembly-05.jpg)                    | ![](Resources/02-assembly-06.jpg)                    |
 
 | Schematics Diagram                                   | PCB Diagram                                          |
 |------------------------------------------------------|------------------------------------------------------|
@@ -54,7 +58,7 @@ Based on the Espacio de Cesar's video: [Audio Signal Injector](https://www.youtu
 |------------------------------------------------------|------------------------------------------------------|
 | ![](Resources/07-case-3d-model.jpg)                  | ![](Resources/99-comming-soon.jpg)                   |
 
-See 'Rescources' sub-folder for more pictures & videos of the project.
+See 'Resources' folder for more pictures & videos of the project.
 
 &nbsp;
 
@@ -62,6 +66,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 
 v1.0 (2026.01.06) - Adding schematics and PCB.  
 v1.1 (2026.01.07) - Adding case 3D model.  
+v1.2 (2026.01.09) - Adding folder 'Resources'.  
 
 &nbsp;
 

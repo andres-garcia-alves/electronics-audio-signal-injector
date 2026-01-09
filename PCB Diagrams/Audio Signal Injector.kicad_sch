@@ -2736,7 +2736,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "50K"
 			(at 194.31 99.314 90)
 			(effects
 				(font
@@ -3116,7 +3116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2mm"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380"
 			(at 157.48 64.77 0)
 			(effects
 				(font
@@ -3246,7 +3246,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2mm"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380"
 			(at 137.16 64.77 0)
 			(effects
 				(font
@@ -3531,7 +3531,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "56nF"
 			(at 206.248 99.822 90)
 			(effects
 				(font
